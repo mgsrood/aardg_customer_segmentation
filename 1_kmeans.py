@@ -113,3 +113,5 @@ customer_counts_per_segment = kmeans['segment'].value_counts().sort_index()
 
 # Now you can print or use the counts
 print(customer_counts_per_segment)
+
+# Test
